@@ -1,0 +1,13 @@
+---
+
+config:
+
+  # localhost:14000:
+  #   server: 192.168.1.166
+  #   port: 5055
+  #   ssl: False
+
+  localhost:14000:
+    server: 192.168.1.166
+    port: 15000
+    ssl: False
